@@ -1,0 +1,4 @@
+# Runtime dependencies for local use and Streamlit Community Cloud.
+streamlit>=1.40,<2
+networkx>=3.2,<4
+numpy>=1.26,<3
